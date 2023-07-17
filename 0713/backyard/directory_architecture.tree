@@ -1,0 +1,10 @@
+.
+├── Cargo.toml
+├── directory_architecture.tree
+└── src
+    ├── garden
+    │   └── vegetables.rs
+    ├── garden.rs
+    └── main.rs
+
+3 directories, 5 files
